@@ -1,0 +1,81 @@
+We talked about why it was important to get net beans installed. 
+
+Asked us to help each other install net beans in discussion board
+
+Covered Chapter 1 of Gaddis:
+
+Why program, talked about his back ground in the field, allows us to earn money.
+
+Pc to make programmers and become a programmer
+
+Talked about what issues with slides, mainly that we need a CPU, main memory, Secondary memory, input devices like keyboards and mice, and output devices like monitors.
+
+ 
+
+Input process output.
+
+talked about our main memory. we should build our own PC
+
+talked about algorithms.
+
+Machine language are 1's and 0's.
+
+talked about different languages : C, C#, C++, Java, JavaScript, Python, Cobol, Fortran, Basic, Ruby and Visual Basic
+
+should learn 5-6 of them.
+
+IDE is netbeans and it will just do most of the work for us. 
+
+programs are made up of Key words, programmer defined identifiers, operators, punctuation, and syntax.
+
+Talked about the keywords
+
+using, namespace, int, double, and return can't use these as variables.
+
+operators  arithmetic and assignment, plus << >> = and *
+
+Variables should be 7 char or less/ pet peeve.
+
+another pet peeve, don't use double, it uses too much space.
+
+talked about input, processing and output.
+
+1 gather input from keyboard or files on disk drive,
+
+2 process the input data,
+
+3 Display the results as output by sending it to the screen or by having it write to a file.
+
+He would like us to write the process we use by hand.
+
+talked about procedural and object-oriented programming.
+
+moved to chapt 2.
+
+we talked about we should always comment our code, at least once every 5 lines.
+
+also talked about our special char's. // # <> () {} "" and ;
+
+Moved to cout object. it means Character output.
+
+putting cout << "Hello World";
+
+will output Hello World
+
+endl; will give you an add a line worth of spaces same as '\n'.
+
+talked about #include Directive.
+
+Variables has int Item is 4 bytes
+
+only learn 30 of the 3 pages he showed of the words and char's.
+
+take out vowels.
+
+Talked about Camal Case.
+
+talked about integer data types, short, int Signed and Unsigned (S/U),  Long (S/U) and Long long (S/U).
+
+char 1 byte, range is Signed from -128,127  ,  unsigned 0-255 
+
+ended with ascii code
