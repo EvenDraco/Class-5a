@@ -1,0 +1,51 @@
+Going to start by teaching us loops
+
+The ++ operator allows us to add 1 to the variable. val++ is the same as val = val + a;
+++ can be before or after the var. ++val or val++.
+++val, is adds before the equation,
+val++ adds it after.
+
+same with --
+
+Loop :
+while (expression)
+     statement
+while (number <=5){
+cout << "hello\n";
+number++;
+}
+says hello 5 times
+no break in anything other than switch cases.
+arrays and for loops go together.
+
+int x=1;
+do{ cout << x << endl;}
+while(x < 0);
+
+for loop
+for(int; test; update)
+state; // or block in {}
+;
+for (int count = 1; count <=5; count++)
+cout << "Hello" << endl;
+start stop step;
+You can initialize more than 1 in for loop and update the loops (x++, y++)
+bool statements can only have 1 (x<=5)
+you cannot use a blank 
+XXXX(; num <=10; num++) XXXX
+
+running total accumulated sum of numbers from each rep of loop
+
+x
+ y
+ !x 
+!y
+ x&&y 
+x||y
+x^y
+X^y^y
+x^y^x
+!(x&&y)
+!x||!y
+!(x||y)
+!x&&!y
