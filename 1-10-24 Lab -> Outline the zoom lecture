@@ -1,0 +1,41 @@
+Talking about inputs outputs.
+Ch 4,  Bool can be complex logic.
+it allows us to be more complex and writre more complex programs.
+relational Ops.
+<, >, >=,<=, ==, !=.
+single = is an assignment, double == is a question, is it equal?
+Bool exp, 12 >5 - true 7<=5 is false.
+ x =10 
+x==10 True, x!=8 true, x==8 false.
+The if statement - 4.2
+Marks law = least amount of typing is the correct way.
+if Statement  allows statements to be conditionally executed or skipped over.
+If (expression) 
+Statement;
+If else statements,
+Always indent so you can see what is going on.
+Nested if else statements work allow you to if else  inside it.
+You can change the statement as long as they are part of Demorgans law
+Checking numeric ranges with logical op.
+if (grade >=0 && grade <=100)
+    cout << "valid grade";
+if (grade < 0 || grade >100)
+    cout << "invalid grade";
+can't do 
+if (0<= grade <=100) doesn't work as that isn't true.
+If else else if else if, else always stop on else if you else if (){}
+flags, any discreet statement
+ variable that signals a condition
+4 types of bool statements TT TF FT FF
+not op converts true to false and false to true.
+x&&y (and gate)  T if both are true, but if one is false  it is false
+x||y (or gate) T as long as one is true if both are false then it is false
+x^y  (or gate) True as long as only one is true, if both are true or false then it is false.
+(x^y)x (exclusive or) T F T F as long as Y is T
+!(x&&y) (exclusive and gate) FTTT same as 
+!x||!y FTTT (exclusive OR Gate) as long as it isn't X and Y it is T
+!(x||y) FFFT Only works if all are False
+!x&&!y FFFT Only works if all are False
+make your code easy to read
+Menus 4.10
+menu can be implemented using if/else if statements
