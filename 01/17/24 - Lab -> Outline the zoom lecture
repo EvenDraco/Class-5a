@@ -1,0 +1,18 @@
+started going over things we learned yesterday.
+
+Using files for Data Storage.
+
+use fstream in header
+
+file stream types is ifstream
+ofstream,
+
+
+infile.open("inventory.dat");
+outfile.close()
+
+using loops to process files,
+while (inputFile>> number)
+close the file after you are done.
+
+ 
