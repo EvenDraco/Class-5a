@@ -1,0 +1,49 @@
+Went over assignment and how he wants them.
+
+Went over Chapter 2 in Gaddis, 
+
+Cout
+
+#include
+
+Variables and Literals 7 char or less
+
+Indentifiers learn 30.
+
+Bool - true or false - 2 bytes
+
+Signed/Unsigned Char - 1 bytes
+
+Signed/Unsigned Short - 2 bytes
+
+Signed/Unsigned int - 4 bytes
+
+Signed/Unsigned long - 4 bytes
+
+Signed/Unsigned Long Long - 8 bytes
+
+Char is ascii code
+
+string is character arrays
+
+floats have decimals
+
+floats represent 7 significate digits. 3.4e-38 + 3.4e> 38
+
+E represents 10 x the number on the right F is float L is long
+
+Bool 0 is false 1 and above is true
+
+Sizeof() gives the size of any data type
+
+C requires unknown go on left. numbers go in on right
+
+We wont use Auto
+
+Scope stays in vegas, can't putput before value is defined.
+
+Mod % give you the remander
+
+comments in your program they are important
+
+Const should be uppercase
